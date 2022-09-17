@@ -1,11 +1,12 @@
 module.exports = {
+  pathPrefix : "/blog",
   siteMetadata: {
     title: `Personal Page`,
     author: {
       name: `Jules Kozolinsky`,
       summary: `who lives and works in Hong Kong.`,
     },
-    description: `A starter blog to be used as future resume.`,
+    description: `A starter website to be used as future resume.`,
     siteUrl: `https://juleskzl.github.io/`,
     social: {
       twitter: ``,
